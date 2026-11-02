@@ -1,0 +1,686 @@
+{
+  "schema": 1,
+  "repository": "alandvo/avonetics-songs-046",
+  "songs": [
+    {
+      "id": "song_20261102_091106_76e5",
+      "title": "Dead Bolt",
+      "language": "English",
+      "source": "s_20261102_090730_0df2ef.m4a",
+      "bytes": 2269968,
+      "localMtime": 1793610666.5816083,
+      "file": "songs/216b527fd0dea9e070d96f851ebb0fdaffead96a7316e45ea0ceaa0f632147c2.m4a",
+      "sha256": "216b527fd0dea9e070d96f851ebb0fdaffead96a7316e45ea0ceaa0f632147c2"
+    },
+    {
+      "id": "song_20261102_092010_5482",
+      "title": "Trophy For Myself",
+      "language": "English",
+      "source": "s_20261102_091726_472a60.m4a",
+      "bytes": 2237793,
+      "localMtime": 1793611209.976767,
+      "file": "songs/1cbe5b285048417f6b9fdfe44a0b33b2d39ea7c4cb1ed6f33a29a3ec303de526.m4a",
+      "sha256": "1cbe5b285048417f6b9fdfe44a0b33b2d39ea7c4cb1ed6f33a29a3ec303de526"
+    },
+    {
+      "id": "song_20261102_094009_488f",
+      "title": "Broadcast on Channel Nine",
+      "language": "English",
+      "source": "s_20261102_093726_7a9219.m4a",
+      "bytes": 2062689,
+      "localMtime": 1793612409.327654,
+      "file": "songs/4cd82c816f325ead232850e809d4f28f37ee03b9269e754b40828a4ef55c3571.m4a",
+      "sha256": "4cd82c816f325ead232850e809d4f28f37ee03b9269e754b40828a4ef55c3571"
+    },
+    {
+      "id": "song_20261102_095010_6278",
+      "title": "Velvet Hangover",
+      "language": "English",
+      "source": "s_20261102_094727_3fc700.m4a",
+      "bytes": 2220876,
+      "localMtime": 1793613010.8786364,
+      "file": "songs/d4947bc775a5ec3a6fdf4d189f1d2d6aa03d4043484f06fe0ee781c29fc874a7.m4a",
+      "sha256": "d4947bc775a5ec3a6fdf4d189f1d2d6aa03d4043484f06fe0ee781c29fc874a7"
+    },
+    {
+      "id": "song_20261102_100023_fc94",
+      "title": "Velvet Cage, Golden Mic",
+      "language": "English",
+      "source": "s_20261102_095729_344c8b.m4a",
+      "bytes": 1842917,
+      "localMtime": 1793613622.8736157,
+      "file": "songs/c17341b2c7852229343e98a393fe42d6f1b1889521ad3aaae53035777e7dd3a9.m4a",
+      "sha256": "c17341b2c7852229343e98a393fe42d6f1b1889521ad3aaae53035777e7dd3a9"
+    },
+    {
+      "id": "song_20261102_101007_5851",
+      "title": "Asliyat Ki Zabaan",
+      "language": "English",
+      "source": "s_20261102_100732_535e6f.m4a",
+      "bytes": 1908555,
+      "localMtime": 1793614207.0818367,
+      "file": "songs/0fa3e68ca96551e28599d56bc72174e5529252bcc443104131b03e5fd4aa61f9.m4a",
+      "sha256": "0fa3e68ca96551e28599d56bc72174e5529252bcc443104131b03e5fd4aa61f9"
+    },
+    {
+      "id": "song_20261102_102008_cece",
+      "title": "Wildfire in the Quiet",
+      "language": "English",
+      "source": "s_20261102_101730_05385c.m4a",
+      "bytes": 2027357,
+      "localMtime": 1793614808.1617122,
+      "file": "songs/dad9b4e67f89905e3b1221680bfd6ebcd06531995d5e24b903d69457e6497dc9.m4a",
+      "sha256": "dad9b4e67f89905e3b1221680bfd6ebcd06531995d5e24b903d69457e6497dc9"
+    },
+    {
+      "id": "song_20261102_104511_c9e9",
+      "title": "Spare Me the Sugar",
+      "language": "English",
+      "source": "s_20261102_103734_33fa71.m4a",
+      "bytes": 1693284,
+      "localMtime": 1793616310.9542637,
+      "file": "songs/7ac6c5fd4396ee2cfc872d67baa6a587ab76fc0a200192c99a88966ec88c5e98.m4a",
+      "sha256": "7ac6c5fd4396ee2cfc872d67baa6a587ab76fc0a200192c99a88966ec88c5e98"
+    },
+    {
+      "id": "song_20261102_105007_0968",
+      "title": "Velvet Tempo",
+      "language": "English",
+      "source": "s_20261102_104729_cef6f3.m4a",
+      "bytes": 2183388,
+      "localMtime": 1793616607.215148,
+      "file": "songs/7a46d3270451e6933ef93c367afb2b0b5b0938eacfbc1e62266938d95a58cb5c.m4a",
+      "sha256": "7a46d3270451e6933ef93c367afb2b0b5b0938eacfbc1e62266938d95a58cb5c"
+    },
+    {
+      "id": "song_20261102_110033_9788",
+      "title": "After the Applause Stops",
+      "language": "English",
+      "source": "s_20261102_105726_0e46eb.m4a",
+      "bytes": 2129676,
+      "localMtime": 1793617232.860156,
+      "file": "songs/cdeef17cc92acbcc07792cd89a175990a9ce48005550f0a3b9b5eb52e4993138.m4a",
+      "sha256": "cdeef17cc92acbcc07792cd89a175990a9ce48005550f0a3b9b5eb52e4993138"
+    },
+    {
+      "id": "song_20261102_111006_c4f5",
+      "title": "Kulang sa Sukli",
+      "language": "English",
+      "source": "s_20261102_110731_797c87.m4a",
+      "bytes": 1955732,
+      "localMtime": 1793617806.9090607,
+      "file": "songs/9c458741ffec8b717195ccb45b6a8d3125e82bd70b215596969c363585c443dc.m4a",
+      "sha256": "9c458741ffec8b717195ccb45b6a8d3125e82bd70b215596969c363585c443dc"
+    },
+    {
+      "id": "song_20261102_113009_23c8",
+      "title": "Sukoon",
+      "language": "English",
+      "source": "s_20261102_112731_00214d.m4a",
+      "bytes": 1853588,
+      "localMtime": 1793619009.3288622,
+      "file": "songs/758d90e3cc42b6253951705034f9dc75393cb69f96146365fa16d548b68a4f2c.m4a",
+      "sha256": "758d90e3cc42b6253951705034f9dc75393cb69f96146365fa16d548b68a4f2c"
+    },
+    {
+      "id": "song_20261102_113406_1c22",
+      "title": "Velvet Rope Altitude",
+      "language": "English",
+      "source": "s_20261102_111729_35bd0f.m4a",
+      "bytes": 2079462,
+      "localMtime": 1793619246.6397104,
+      "file": "songs/176914af2802ec5230c318a360ab932d98b390e70345057501986f652e31f198.m4a",
+      "sha256": "176914af2802ec5230c318a360ab932d98b390e70345057501986f652e31f198"
+    },
+    {
+      "id": "song_20261102_114006_4ba9",
+      "title": "Velvet Cage",
+      "language": "English",
+      "source": "s_20261102_113729_2136fe.m4a",
+      "bytes": 2368316,
+      "localMtime": 1793619606.2953036,
+      "file": "songs/639c66a0934858a442bd0a76c37be43aa25ac3ed9cec4364ab4e0d9edff60ba3.m4a",
+      "sha256": "639c66a0934858a442bd0a76c37be43aa25ac3ed9cec4364ab4e0d9edff60ba3"
+    },
+    {
+      "id": "song_20261102_115010_833d",
+      "title": "Miles Past the Crossroads",
+      "language": "English",
+      "source": "s_20261102_114730_3bdf7d.m4a",
+      "bytes": 1836530,
+      "localMtime": 1793620210.1323962,
+      "file": "songs/7bfea21765f066401a13e1f82c7949530addb4db6fd7389231c34d9d2f116a01.m4a",
+      "sha256": "7bfea21765f066401a13e1f82c7949530addb4db6fd7389231c34d9d2f116a01"
+    },
+    {
+      "id": "song_20261102_120021_041e",
+      "title": "Barya sa Bulsa",
+      "language": "English",
+      "source": "s_20261102_115729_318151.m4a",
+      "bytes": 2054616,
+      "localMtime": 1793620821.5790424,
+      "file": "songs/77a9625eba7ed802d75cfc879be6e3822ca65f9c0d6ea02c873786e29cc6176a.m4a",
+      "sha256": "77a9625eba7ed802d75cfc879be6e3822ca65f9c0d6ea02c873786e29cc6176a"
+    },
+    {
+      "id": "song_20261102_121207_60f4",
+      "title": "Tahimik Na Ang Dagat",
+      "language": "English",
+      "source": "s_20261102_120723_367c99.m4a",
+      "bytes": 1897306,
+      "localMtime": 1793621527.3411667,
+      "file": "songs/9d0956551cc686e7ba062dcddff385ad95911d30ce1e0989b6b6c44fe630bd9e.m4a",
+      "sha256": "9d0956551cc686e7ba062dcddff385ad95911d30ce1e0989b6b6c44fe630bd9e"
+    },
+    {
+      "id": "song_20261102_122008_15a5",
+      "title": "Static in the Chandelier",
+      "language": "English",
+      "source": "s_20261102_121733_9c7a0c.m4a",
+      "bytes": 2283643,
+      "localMtime": 1793622008.5127673,
+      "file": "songs/51c1507d924e8a7a0b00c9a924b4a3c6e9d9fd9d1a2e3525a64a08366f6c9ea8.m4a",
+      "sha256": "51c1507d924e8a7a0b00c9a924b4a3c6e9d9fd9d1a2e3525a64a08366f6c9ea8"
+    },
+    {
+      "id": "song_20261102_123008_1e6c",
+      "title": "Where Ink Turns to Gold",
+      "language": "English",
+      "source": "s_20261102_122730_e98d0e.m4a",
+      "bytes": 2042582,
+      "localMtime": 1793622608.7454832,
+      "file": "songs/ea00f95c3f2aa56964395ac121aacaa928f3ee3493efeba65db0b9bf41b9a576.m4a",
+      "sha256": "ea00f95c3f2aa56964395ac121aacaa928f3ee3493efeba65db0b9bf41b9a576"
+    },
+    {
+      "id": "song_20261102_130308_9df9",
+      "title": "Bitak sa Pundasyon",
+      "language": "English",
+      "source": "s_20261102_125741_f86ab3.m4a",
+      "bytes": 2198741,
+      "localMtime": 1793624588.3470728,
+      "file": "songs/f18bd27400a5570138c2371b70c75e139d77f77e5216c0474ba72a2068414226.m4a",
+      "sha256": "f18bd27400a5570138c2371b70c75e139d77f77e5216c0474ba72a2068414226"
+    },
+    {
+      "id": "song_20261102_131007_d81c",
+      "title": "Wildfire Grace",
+      "language": "English",
+      "source": "s_20261102_130724_5b7b75.m4a",
+      "bytes": 2100182,
+      "localMtime": 1793625007.8151798,
+      "file": "songs/516dee17017b77d683224922c85fac1bb38b5c019c77b1fff53cd9d296a68870.m4a",
+      "sha256": "516dee17017b77d683224922c85fac1bb38b5c019c77b1fff53cd9d296a68870"
+    },
+    {
+      "id": "song_20261102_134513_0455",
+      "title": "First Billing",
+      "language": "English",
+      "source": "s_20261102_133734_88e561.m4a",
+      "bytes": 2388663,
+      "localMtime": 1793627113.6062613,
+      "file": "songs/0dc59806a2e40ef057b3161027c3f46bb0861805e825be0a391ba83328bc5341.m4a",
+      "sha256": "0dc59806a2e40ef057b3161027c3f46bb0861805e825be0a391ba83328bc5341"
+    },
+    {
+      "id": "song_20261102_140305_e8e1",
+      "title": "Kinsenas at Barya",
+      "language": "English",
+      "source": "s_20261102_135730_bca9a7.m4a",
+      "bytes": 1878602,
+      "localMtime": 1793628185.8470488,
+      "file": "songs/156d9b4bf0949cdc7c21edaaa7a6f0db95c4d8622d43fc39ed68bf9543571f15.m4a",
+      "sha256": "156d9b4bf0949cdc7c21edaaa7a6f0db95c4d8622d43fc39ed68bf9543571f15"
+    },
+    {
+      "id": "song_20261102_142013_9d0e",
+      "title": "Tere Saaye Mein",
+      "language": "English",
+      "source": "s_20261102_141727_2afce5.m4a",
+      "bytes": 2041445,
+      "localMtime": 1793629213.1516416,
+      "file": "songs/7548b490acc893bcaa30ea329fd622807446e703bc6a44394f02b84a61482c18.m4a",
+      "sha256": "7548b490acc893bcaa30ea329fd622807446e703bc6a44394f02b84a61482c18"
+    },
+    {
+      "id": "song_20261102_143011_8517",
+      "title": "No Second Match",
+      "language": "English",
+      "source": "s_20261102_142737_954222.m4a",
+      "bytes": 2115048,
+      "localMtime": 1793629811.6549733,
+      "file": "songs/2dd7a46b07fee827fda1a28cada7b2bd9a43b4c799dddd3c1a9d5c6d99ac1f98.m4a",
+      "sha256": "2dd7a46b07fee827fda1a28cada7b2bd9a43b4c799dddd3c1a9d5c6d99ac1f98"
+    },
+    {
+      "id": "song_20261102_144008_3496",
+      "title": "Pedestal of Glass",
+      "language": "English",
+      "source": "s_20261102_143735_55c6f5.m4a",
+      "bytes": 2160275,
+      "localMtime": 1793630408.064343,
+      "file": "songs/445062383e4a7d5c777f7a76c33b3646d6f3e9f4f9c7069f7c01600052af6bd8.m4a",
+      "sha256": "445062383e4a7d5c777f7a76c33b3646d6f3e9f4f9c7069f7c01600052af6bd8"
+    },
+    {
+      "id": "song_20261102_145008_333b",
+      "title": "Table For The Architects",
+      "language": "English",
+      "source": "s_20261102_144737_3267d5.m4a",
+      "bytes": 2107857,
+      "localMtime": 1793631008.1524587,
+      "file": "songs/c65a49635782c4b0af2d57e668c0178ad02991f4ce97ffc03a8516e53c2c10af.m4a",
+      "sha256": "c65a49635782c4b0af2d57e668c0178ad02991f4ce97ffc03a8516e53c2c10af"
+    },
+    {
+      "id": "song_20261102_152012_5bf4",
+      "title": "Kalawang sa Ginto",
+      "language": "English",
+      "source": "s_20261102_151731_a522d8.m4a",
+      "bytes": 2320464,
+      "localMtime": 1793632811.9863024,
+      "file": "songs/e2aad55a21da35b2248254b83339e2c8ad33a08edfe778d03735b42259e47518.m4a",
+      "sha256": "e2aad55a21da35b2248254b83339e2c8ad33a08edfe778d03735b42259e47518"
+    },
+    {
+      "id": "song_20261102_154011_3a4b",
+      "title": "Golden Hour Vertigo",
+      "language": "English",
+      "source": "s_20261102_153735_7a8fbc.m4a",
+      "bytes": 2096235,
+      "localMtime": 1793634010.9202883,
+      "file": "songs/dbb205300afbe25481e52c63597a069bd48a8c39fae84bf1fbf368b95b9999fb.m4a",
+      "sha256": "dbb205300afbe25481e52c63597a069bd48a8c39fae84bf1fbf368b95b9999fb"
+    },
+    {
+      "id": "song_20261102_155009_a346",
+      "title": "Bought the Whole Horizon",
+      "language": "English",
+      "source": "s_20261102_154734_1ce19a.m4a",
+      "bytes": 2162697,
+      "localMtime": 1793634609.2325778,
+      "file": "songs/6e553bdd8ba351f0918161ab1a486c4327ac9d8dd21e80cb932990e9ec5b40d4.m4a",
+      "sha256": "6e553bdd8ba351f0918161ab1a486c4327ac9d8dd21e80cb932990e9ec5b40d4"
+    },
+    {
+      "id": "song_20261102_160029_bbb9",
+      "title": "Grown Enough to Lead",
+      "language": "English",
+      "source": "s_20261102_155729_87ca1d.m4a",
+      "bytes": 1990563,
+      "localMtime": 1793635229.5497193,
+      "file": "songs/baa2eca54488d4a4a484313d2dea5cdb052e82ef2f70c7cb1e0a39d90e93067c.m4a",
+      "sha256": "baa2eca54488d4a4a484313d2dea5cdb052e82ef2f70c7cb1e0a39d90e93067c"
+    },
+    {
+      "id": "song_20261102_161207_bef0",
+      "title": "Rodeo Drive Can Wait",
+      "language": "English",
+      "source": "s_20261102_160730_11583f.m4a",
+      "bytes": 2315007,
+      "localMtime": 1793635926.9935362,
+      "file": "songs/1be6a8ad4c486d74f78aa89e0c6de7462575da619ffe7d1fe7ed160bc50ddcb4.m4a",
+      "sha256": "1be6a8ad4c486d74f78aa89e0c6de7462575da619ffe7d1fe7ed160bc50ddcb4"
+    },
+    {
+      "id": "song_20261102_162011_90f2",
+      "title": "Valet Ticket at 4 AM",
+      "language": "English",
+      "source": "s_20261102_161727_7904f7.m4a",
+      "bytes": 2193274,
+      "localMtime": 1793636411.2457948,
+      "file": "songs/482f5868efaab5c47624d98bcd17d95c8db004bd9f0c2bfe1b431c17e53ffcd5.m4a",
+      "sha256": "482f5868efaab5c47624d98bcd17d95c8db004bd9f0c2bfe1b431c17e53ffcd5"
+    },
+    {
+      "id": "song_20261102_163014_a9e8",
+      "title": "Gravity Always Wins",
+      "language": "English",
+      "source": "s_20261102_162727_a3c10b.m4a",
+      "bytes": 2179614,
+      "localMtime": 1793637014.1799874,
+      "file": "songs/1799e5f3d3d92d5b5576ff8602f1e6de8ce99ec5b20184b523e29e421acb342a.m4a",
+      "sha256": "1799e5f3d3d92d5b5576ff8602f1e6de8ce99ec5b20184b523e29e421acb342a"
+    },
+    {
+      "id": "song_20261102_164511_fe88",
+      "title": "White Silk Exit",
+      "language": "English",
+      "source": "s_20261102_163728_ce3d91.m4a",
+      "bytes": 2200035,
+      "localMtime": 1793637911.662168,
+      "file": "songs/d3648000bdef9e8cc17379f3dcc43abf0b3f516dff7919990c9482e97c0bdac0.m4a",
+      "sha256": "d3648000bdef9e8cc17379f3dcc43abf0b3f516dff7919990c9482e97c0bdac0"
+    },
+    {
+      "id": "song_20261102_170024_5474",
+      "title": "The Day the Silence Won",
+      "language": "English",
+      "source": "s_20261102_165730_bff5f4.m4a",
+      "bytes": 2035941,
+      "localMtime": 1793638824.36199,
+      "file": "songs/00cfc5050666065f0b5caec66ff16268dc747991d69410725cc51cd83ddc5b23.m4a",
+      "sha256": "00cfc5050666065f0b5caec66ff16268dc747991d69410725cc51cd83ddc5b23"
+    },
+    {
+      "id": "song_20261102_170407_3777",
+      "title": "Porchlight in the Velvet Room",
+      "language": "English",
+      "source": "s_20261102_164736_a2fd4a.m4a",
+      "bytes": 1987317,
+      "localMtime": 1793639047.3093815,
+      "file": "songs/92f5e8db8a2563b84b9162543456b04e7cda21db3a22ea0eec4e98e3e34d5541.m4a",
+      "sha256": "92f5e8db8a2563b84b9162543456b04e7cda21db3a22ea0eec4e98e3e34d5541"
+    },
+    {
+      "id": "song_20261102_171009_1471",
+      "title": "Sublease on the Coast",
+      "language": "English",
+      "source": "s_20261102_170730_b34793.m4a",
+      "bytes": 2241907,
+      "localMtime": 1793639409.0732386,
+      "file": "songs/a0ea34e76f04371e9d9908a15cd737ffee429fd5a0d34ac244ab104aa8e8f616.m4a",
+      "sha256": "a0ea34e76f04371e9d9908a15cd737ffee429fd5a0d34ac244ab104aa8e8f616"
+    },
+    {
+      "id": "song_20261102_172014_6ffb",
+      "title": "Nobody Pulls Their Own Weight Out of the River",
+      "language": "English",
+      "source": "s_20261102_171733_a904a9.m4a",
+      "bytes": 1800458,
+      "localMtime": 1793640014.2477624,
+      "file": "songs/14fa060b24015a57735ded8239aa0308791948e2068d3e9e5e5f609f6a8828b1.m4a",
+      "sha256": "14fa060b24015a57735ded8239aa0308791948e2068d3e9e5e5f609f6a8828b1"
+    },
+    {
+      "id": "song_20261102_173012_e421",
+      "title": "Velvet Static",
+      "language": "English",
+      "source": "s_20261102_172732_0a1092.m4a",
+      "bytes": 1961283,
+      "localMtime": 1793640611.6760192,
+      "file": "songs/bedde15f64cdff48e3b9e1f34aa165d7bc0aab42804b30190d5444138e48c812.m4a",
+      "sha256": "bedde15f64cdff48e3b9e1f34aa165d7bc0aab42804b30190d5444138e48c812"
+    },
+    {
+      "id": "song_20261102_174509_6993",
+      "title": "Porch Light Life",
+      "language": "English",
+      "source": "s_20261102_173730_20807e.m4a",
+      "bytes": 2010088,
+      "localMtime": 1793641509.096491,
+      "file": "songs/24b0bfa3dcf1d81eebea49e486ee2faa89bf1a19395879ce0e398be44daf7ea7.m4a",
+      "sha256": "24b0bfa3dcf1d81eebea49e486ee2faa89bf1a19395879ce0e398be44daf7ea7"
+    },
+    {
+      "id": "song_20261102_180305_8dd5",
+      "title": "Paper Cathedral",
+      "language": "English",
+      "source": "s_20261102_175732_9c77c9.m4a",
+      "bytes": 2076360,
+      "localMtime": 1793642585.928587,
+      "file": "songs/7b4316ad28dabc118d6afcd6096b4e659b0a54f6f6240ddf93fe0050525a84d2.m4a",
+      "sha256": "7b4316ad28dabc118d6afcd6096b4e659b0a54f6f6240ddf93fe0050525a84d2"
+    },
+    {
+      "id": "song_20261102_181010_5cb1",
+      "title": "Paper Halo",
+      "language": "English",
+      "source": "s_20261102_180733_c3204d.m4a",
+      "bytes": 2217385,
+      "localMtime": 1793643010.3556163,
+      "file": "songs/e2582916cae8fc219c5303e586edd0425eaeefb3b0b88d1bff45c16224efbebb.m4a",
+      "sha256": "e2582916cae8fc219c5303e586edd0425eaeefb3b0b88d1bff45c16224efbebb"
+    },
+    {
+      "id": "song_20261102_182013_b3eb",
+      "title": "Grocery Receipts and Spare Keys",
+      "language": "English",
+      "source": "s_20261102_181730_9b848f.m4a",
+      "bytes": 2139937,
+      "localMtime": 1793643612.7535791,
+      "file": "songs/5ff59b659559b59d214438ba92ff3756aa975ae7df2ff8727196a71eb968682d.m4a",
+      "sha256": "5ff59b659559b59d214438ba92ff3756aa975ae7df2ff8727196a71eb968682d"
+    },
+    {
+      "id": "song_20261102_183011_5ea7",
+      "title": "Empty Out the Vault",
+      "language": "English",
+      "source": "s_20261102_182727_4ec116.m4a",
+      "bytes": 2083643,
+      "localMtime": 1793644210.9070895,
+      "file": "songs/ba44a433ea2ed2d197c33113097e8b4046bce193d21aceb1ee2a7bcbc562b264.m4a",
+      "sha256": "ba44a433ea2ed2d197c33113097e8b4046bce193d21aceb1ee2a7bcbc562b264"
+    },
+    {
+      "id": "song_20261102_184013_7705",
+      "title": "Velvet Alibi",
+      "language": "English",
+      "source": "s_20261102_183725_691e6a.m4a",
+      "bytes": 2048299,
+      "localMtime": 1793644812.9773288,
+      "file": "songs/8814663edc7a3a28583feaf12ab84636efbcf580815bc604c79947f0d9933623.m4a",
+      "sha256": "8814663edc7a3a28583feaf12ab84636efbcf580815bc604c79947f0d9933623"
+    },
+    {
+      "id": "song_20261102_185018_265a",
+      "title": "Candles in a Flood",
+      "language": "English",
+      "source": "s_20261102_184732_2da938.m4a",
+      "bytes": 2058712,
+      "localMtime": 1793645418.496804,
+      "file": "songs/30da25bfc0cef6bd8658e8080628754e65bb485607e27a481888a73989025465.m4a",
+      "sha256": "30da25bfc0cef6bd8658e8080628754e65bb485607e27a481888a73989025465"
+    },
+    {
+      "id": "song_20261102_190028_c422",
+      "title": "Forcing the Lock",
+      "language": "English",
+      "source": "s_20261102_185727_e80456.m4a",
+      "bytes": 2043055,
+      "localMtime": 1793646027.709059,
+      "file": "songs/541ac17187b15357e6b57fd22e2fca71a613183b6311050e76e55703da6dad02.m4a",
+      "sha256": "541ac17187b15357e6b57fd22e2fca71a613183b6311050e76e55703da6dad02"
+    },
+    {
+      "id": "song_20261102_191009_f00e",
+      "title": "October Neon",
+      "language": "English",
+      "source": "s_20261102_190727_ce2570.m4a",
+      "bytes": 2114344,
+      "localMtime": 1793646609.203777,
+      "file": "songs/bb6be51ff4d1eee311782dc10e7c89a1d21b530d80e55e8ea7ece386bcc01c5b.m4a",
+      "sha256": "bb6be51ff4d1eee311782dc10e7c89a1d21b530d80e55e8ea7ece386bcc01c5b"
+    },
+    {
+      "id": "song_20261102_192012_a15c",
+      "title": "Morning After the Surrender",
+      "language": "English",
+      "source": "s_20261102_191726_6b324f.m4a",
+      "bytes": 2184956,
+      "localMtime": 1793647211.9825234,
+      "file": "songs/769376fce6e0077b25a0e2d171a0d291a5ff7ccd31d498283e6fd96809d7a35f.m4a",
+      "sha256": "769376fce6e0077b25a0e2d171a0d291a5ff7ccd31d498283e6fd96809d7a35f"
+    },
+    {
+      "id": "song_20261102_193015_7990",
+      "title": "Quiet Money",
+      "language": "English",
+      "source": "s_20261102_192731_d05407.m4a",
+      "bytes": 1972600,
+      "localMtime": 1793647815.099217,
+      "file": "songs/328fb00336abf59c3ab1b78f7f18a267de039d5787fc5a43751084881e0abec7.m4a",
+      "sha256": "328fb00336abf59c3ab1b78f7f18a267de039d5787fc5a43751084881e0abec7"
+    },
+    {
+      "id": "song_20261102_194013_8aac",
+      "title": "Leave the Hallway Light On",
+      "language": "English",
+      "source": "s_20261102_193733_bb833b.m4a",
+      "bytes": 2209709,
+      "localMtime": 1793648412.9923031,
+      "file": "songs/3610c30f1bdc63a58f18a103176f7872d7db05972159974c805beb6ca9695798.m4a",
+      "sha256": "3610c30f1bdc63a58f18a103176f7872d7db05972159974c805beb6ca9695798"
+    },
+    {
+      "id": "song_20261102_195010_e4b3",
+      "title": "Porch Light Off",
+      "language": "English",
+      "source": "s_20261102_194723_362454.m4a",
+      "bytes": 1815854,
+      "localMtime": 1793649010.9245725,
+      "file": "songs/e49f5c6790401957f59ba44b7ca2990f9042d8f03fbc4999ef5f42abd1c4e028.m4a",
+      "sha256": "e49f5c6790401957f59ba44b7ca2990f9042d8f03fbc4999ef5f42abd1c4e028"
+    },
+    {
+      "id": "song_20261102_200027_1a26",
+      "title": "Accidental Altar",
+      "language": "English",
+      "source": "s_20261102_195734_dd6bb4.m4a",
+      "bytes": 1992930,
+      "localMtime": 1793649627.544285,
+      "file": "songs/80b0323fd69a5bdf00c9b3d278024329950ab23fe4e76107dfa3c999b21a810b.m4a",
+      "sha256": "80b0323fd69a5bdf00c9b3d278024329950ab23fe4e76107dfa3c999b21a810b"
+    },
+    {
+      "id": "song_20261102_202013_26b2",
+      "title": "Soft Landing",
+      "language": "English",
+      "source": "s_20261102_201732_1b33c2.m4a",
+      "bytes": 1965278,
+      "localMtime": 1793650813.068121,
+      "file": "songs/7f45ee4312a114c311301f7048118135f678d653ae8b31f996be838e2b389716.m4a",
+      "sha256": "7f45ee4312a114c311301f7048118135f678d653ae8b31f996be838e2b389716"
+    },
+    {
+      "id": "song_20261102_203010_5f2d",
+      "title": "Rust on the Lunchbox",
+      "language": "English",
+      "source": "s_20261102_202725_3fb1ef.m4a",
+      "bytes": 1995537,
+      "localMtime": 1793651410.4184077,
+      "file": "songs/17300c0c85e536e0f5ca25ebe17e19f4c59e9fc2a4728a574424fce38838c951.m4a",
+      "sha256": "17300c0c85e536e0f5ca25ebe17e19f4c59e9fc2a4728a574424fce38838c951"
+    },
+    {
+      "id": "song_20261102_203908_33d4",
+      "title": "St. Lawrence Frost",
+      "language": "English",
+      "source": "s_20261102_203722_c16ca7.m4a",
+      "bytes": 2180206,
+      "localMtime": 1793651948.5070174,
+      "file": "songs/4a05b52ef5e56a63c65457cb1cb0839632362ec05866cdf4205c0aed6d76d3aa.m4a",
+      "sha256": "4a05b52ef5e56a63c65457cb1cb0839632362ec05866cdf4205c0aed6d76d3aa"
+    },
+    {
+      "id": "song_20261102_210027_bb02",
+      "title": "Velvet Cage",
+      "language": "English",
+      "source": "s_20261102_205728_54f30f.m4a",
+      "bytes": 1940136,
+      "localMtime": 1793653226.7824504,
+      "file": "songs/fb4a8ad0b1b076ac1303f3da7dd37d7cbfab8784fb5922ca97a6030bde6e442b.m4a",
+      "sha256": "fb4a8ad0b1b076ac1303f3da7dd37d7cbfab8784fb5922ca97a6030bde6e442b"
+    },
+    {
+      "id": "song_20261102_212010_64e2",
+      "title": "Broadcast on Channel Nine",
+      "language": "English",
+      "source": "s_20261102_211727_8414a3.m4a",
+      "bytes": 2181044,
+      "localMtime": 1793654410.121872,
+      "file": "songs/ddb782877ad055d8e78f97196d03e9238e3b1d23d68eb416a9b09d8af3f56857.m4a",
+      "sha256": "ddb782877ad055d8e78f97196d03e9238e3b1d23d68eb416a9b09d8af3f56857"
+    },
+    {
+      "id": "song_20261102_213017_2b1c",
+      "title": "Velvet Appetite",
+      "language": "English",
+      "source": "s_20261102_212733_fedb25.m4a",
+      "bytes": 2046119,
+      "localMtime": 1793655017.4534175,
+      "file": "songs/cc0fd40ec7e5286f051e40c566da019db0d642ab89d5a15f79f030680974f7e0.m4a",
+      "sha256": "cc0fd40ec7e5286f051e40c566da019db0d642ab89d5a15f79f030680974f7e0"
+    },
+    {
+      "id": "song_20261102_214012_637e",
+      "title": "Velvet On The Vinyl",
+      "language": "English",
+      "source": "s_20261102_213724_39503f.m4a",
+      "bytes": 1885324,
+      "localMtime": 1793655612.3273778,
+      "file": "songs/001d5150c54fdd3009aacb3287f153ec49679fbb0e115b6046d5e4480c5cf26b.m4a",
+      "sha256": "001d5150c54fdd3009aacb3287f153ec49679fbb0e115b6046d5e4480c5cf26b"
+    },
+    {
+      "id": "song_20261102_214907_847b",
+      "title": "Westbound Ticket",
+      "language": "English",
+      "source": "s_20261102_214724_6512b3.m4a",
+      "bytes": 2075966,
+      "localMtime": 1793656147.4849296,
+      "file": "songs/179e2c1956415f17c384d36f752908cbe3e2950746f2165f1801a77beb8ded23.m4a",
+      "sha256": "179e2c1956415f17c384d36f752908cbe3e2950746f2165f1801a77beb8ded23"
+    },
+    {
+      "id": "song_20261102_220029_16cb",
+      "title": "Velvet Rope Dynasty",
+      "language": "English",
+      "source": "s_20261102_215725_a2be09.m4a",
+      "bytes": 2129882,
+      "localMtime": 1793656828.9562483,
+      "file": "songs/6516188e28ad45f9b0387a8275dacf75b17a2ab7845ff146a68b364dcf0cf029.m4a",
+      "sha256": "6516188e28ad45f9b0387a8275dacf75b17a2ab7845ff146a68b364dcf0cf029"
+    },
+    {
+      "id": "song_20261102_221009_e48a",
+      "title": "Trophy Estate",
+      "language": "English",
+      "source": "s_20261102_220730_70b374.m4a",
+      "bytes": 2177773,
+      "localMtime": 1793657408.9972258,
+      "file": "songs/1da75e79bd88870fad1cb669479e4d54bce1975f8fd1d9653257b75a2abf6bb8.m4a",
+      "sha256": "1da75e79bd88870fad1cb669479e4d54bce1975f8fd1d9653257b75a2abf6bb8"
+    },
+    {
+      "id": "song_20261102_223016_7de8",
+      "title": "Before the Organ Plays",
+      "language": "English",
+      "source": "s_20261102_222728_f7094c.m4a",
+      "bytes": 2091387,
+      "localMtime": 1793658615.9876435,
+      "file": "songs/277330caff4050a170fbee37b879054bcb955386b738f66df818803332f9bd62.m4a",
+      "sha256": "277330caff4050a170fbee37b879054bcb955386b738f66df818803332f9bd62"
+    },
+    {
+      "id": "song_20261102_223507_e9bf",
+      "title": "The Loneliest Prize",
+      "language": "English",
+      "source": "s_20261102_221734_ef3f11.m4a",
+      "bytes": 2092252,
+      "localMtime": 1793658907.0821445,
+      "file": "songs/6b976e4f08a5e47e770eccfc1370f663c6e6b69636ed2f48cfaf41fbcef50034.m4a",
+      "sha256": "6b976e4f08a5e47e770eccfc1370f663c6e6b69636ed2f48cfaf41fbcef50034"
+    },
+    {
+      "id": "song_20261102_225010_c9a0",
+      "title": "Smoke Alarm",
+      "language": "English",
+      "source": "s_20261102_224726_41087f.m4a",
+      "bytes": 2039593,
+      "localMtime": 1793659810.0509105,
+      "file": "songs/8e8b45bcb4331c67b8939861297ee21e12c98b74469b21ee816116b5ebffe1a5.m4a",
+      "sha256": "8e8b45bcb4331c67b8939861297ee21e12c98b74469b21ee816116b5ebffe1a5"
+    },
+    {
+      "id": "song_20261102_230033_737f",
+      "title": "Periphery",
+      "language": "English",
+      "source": "s_20261102_225734_9fe281.m4a",
+      "bytes": 2064315,
+      "localMtime": 1793660432.6213481,
+      "file": "songs/7310229b6dcb3671213111a4dc4f9bea0e9a92035f447fb68aa66c04d48b6f5e.m4a",
+      "sha256": "7310229b6dcb3671213111a4dc4f9bea0e9a92035f447fb68aa66c04d48b6f5e"
+    }
+  ]
+}
